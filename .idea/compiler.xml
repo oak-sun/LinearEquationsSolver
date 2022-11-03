@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Linear_Equations_Solver.Linear_Equations_Solver-task" target="17" />
-      <module name="Linear_Equations_Solver.Linear_Equations_Solver-task.main" target="17" />
-      <module name="Linear_Equations_Solver.Linear_Equations_Solver-task.test" target="17" />
-      <module name="Linear_Equations_Solver.util" target="17" />
-      <module name="Linear_Equations_Solver.util.main" target="17" />
-      <module name="Linear_Equations_Solver.util.test" target="17" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
