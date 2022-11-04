@@ -267,14 +267,15 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/40/stages/211/implement#comment
-status: Failed
+- name: out.txt
+  visible: true
+  learner_created: true
+- name: output.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5307#comment
+status: Solved
 feedback:
-  message: |-
-    Error in test #1
-
-    Program ran out of input. You tried to read more than expected.
-
-    Arguments: -in in.txt -out out.txt
-  time: Thu, 03 Nov 2022 11:35:55 UTC
+  message: Congratulations!
+  time: Fri, 04 Nov 2022 15:43:18 UTC
 record: 3
